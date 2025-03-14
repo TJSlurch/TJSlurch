@@ -23,7 +23,7 @@ Starry Summit is a 2D platformer which is heavily inspired by 'Celeste'. The pla
     <img src="https://github.com/user-attachments/assets/4796b307-15c2-4bbf-9a9a-5fa9aa2455e1" alt="Video Showcase" width="500" />
 </a>
 
-
+---
 
 # Neomnia
 
