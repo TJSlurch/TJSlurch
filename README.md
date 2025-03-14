@@ -6,7 +6,6 @@ Hi there! 👋 I'm a university student who loves creating Unity games for fun. 
 
 # Starry Summit
 
-## Description:
 Starry Summit is a 2D platformer which is heavily inspired by 'Celeste'. The player can run, jump, dash, wall climb and wall jump! There are a range of different gameplay items throughout the level (springs, teleporters, moving platforms) and there are 10 optional collectibles for players who want to challenge themselves.
 
 ## Screenshots:
@@ -27,7 +26,6 @@ Starry Summit is a 2D platformer which is heavily inspired by 'Celeste'. The pla
 
 # Neomnia
 
-## Description:
 Neomnia was my submission for the 2024 University of Bath GameJam! For the theme "Colour Changes Everything", I wanted to create a 2D platformer where the player can change colour to influence gameplay. Upon touching a coloured tile, the character changes slightly.
 
 ## Screenshots:
