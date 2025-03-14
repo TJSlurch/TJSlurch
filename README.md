@@ -18,7 +18,7 @@ Starry Summit is a 2D platformer which is heavily inspired by 'Celeste'. The pla
 
 ## Video Showcase:
 
-<a href="https://www.youtube.com/watch?v=_PcBHLtKvAk&t=93s">
+<a href="https://www.youtube.com/watch?v=_PcBHLtKvAk">
     <img src="https://github.com/user-attachments/assets/4796b307-15c2-4bbf-9a9a-5fa9aa2455e1" alt="Video Showcase" width="500" />
 </a>
 
@@ -36,7 +36,7 @@ Neomnia was my submission for the 2024 University of Bath GameJam! For the theme
 
 ## Video Showcase:
 
-<a href="https://www.youtube.com/watch?v=00bCYsJe_Jg&t=6s">
+<a href="https://www.youtube.com/watch?v=00bCYsJe_Jg">
     <img src="https://github.com/user-attachments/assets/fdb33ca1-f1f6-4a52-aef8-fd1a142b1933" alt="Video Showcase" width="500" />
 </a>
 
