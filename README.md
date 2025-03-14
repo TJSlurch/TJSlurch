@@ -13,7 +13,7 @@ Starry Summit is a 2D platformer which is heavily inspired by 'Celeste'. The pla
 ![Screenshot 1](https://github.com/user-attachments/assets/e84c9004-b175-476d-a582-ec66ac8997c9)
 ![Screenshot 2](https://github.com/user-attachments/assets/2ea86234-6993-4dd0-b3bb-c778ce978251)
 ![Screenshot 3](https://github.com/user-attachments/assets/c1251c38-413b-4c59-9072-6a4459af8b26)
-![Screenshot 4]https://github.com/user-attachments/assets/061a3726-f9d6-4169-8fb5-918bf10fde83()
+![Screenshot 4](https://github.com/user-attachments/assets/061a3726-f9d6-4169-8fb5-918bf10fde83)
 ![Screenshot 5](https://github.com/user-attachments/assets/7d026f2c-050c-40d8-a98b-197c6ccf9f02)
 
 **Video Showcase:**
