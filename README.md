@@ -38,7 +38,7 @@ Neomnia was my submission for the 2024 University of Bath GameJam! For the theme
 
 ## Video Showcase:
 
-<a href="https://www.youtube.com/watch?v=_PcBHLtKvAk">
+<a href="https://www.youtube.com/watch?v=00bCYsJe_Jg&t=6s">
     <img src="https://github.com/user-attachments/assets/fdb33ca1-f1f6-4a52-aef8-fd1a142b1933" alt="Video Showcase" width="500" />
 </a>
 
