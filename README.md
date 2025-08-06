@@ -1,6 +1,6 @@
 # Welcome to My GitHub Profile
 
-Hi there! 👋 I'm a university student who loves creating Unity games for fun. This GitHub profile is a collection of my projects.
+Hi there! 👋 I'm a university student who creates Unity games for fun. This GitHub profile is a collection of my projects.
 
 ---
 
